@@ -1,0 +1,5 @@
+Credentials cache: API:17405
+        Principal: jrossouw@42.FR
+
+  Issued                Expires               Principal
+Mar 29 09:38:58 2016  Mar 29 19:38:58 2016  krbtgt/42.FR@42.FR
